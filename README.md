@@ -7,7 +7,7 @@ Et lager for interessante artikler og forhåndstrykk
 | **Uke** | **Paper** | **Lenke** |
 | ------------- | ------------- | ------------- |
 | 1 | Generative AI and Intelligence Assessment | [Lenke](https://www.tandfonline.com/doi/full/10.1080/03071847.2023.2286775) |
-| 2 | Trusting machine intelligence: artificial intelligence and human-autonomy teaming in military operations |[Lenke](https://doi.org/10.1080/14751798.2023.2264070) |
+| 2 | |[Lenke] |
 
 | **Uke** |  **Paper** | **Lenke** |
 | ------------- | ------------- | ------------- |
