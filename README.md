@@ -1,4 +1,4 @@
-# Dette-leser-jeg-denne-uken
+# Dette leser jeg denne uken
 
 Et lager for interessante artikler og forhåndstrykk
 
