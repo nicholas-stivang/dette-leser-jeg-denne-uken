@@ -1,6 +1,6 @@
 # Dette leser jeg denne uken
 
-Et lager for interessante artikler og forhåndstrykk
+Et sted for interessante artikler og forhåndstrykk.
 
 ## 2024
 
