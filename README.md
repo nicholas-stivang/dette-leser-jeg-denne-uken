@@ -11,3 +11,5 @@ Et lager for interessante artikler og forhåndstrykk
 | 3 | A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models |[Lenke](http://arxiv.org/abs/2401.01313) |
 | 4 | The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance |[Lenke](http://arxiv.org/abs/2401.03729) |
 | 5 | Better Call GPT, Comparing Large Language Models Against Lawyers |[Lenke](http://arxiv.org/abs/2401.16212) |
+| 6 | AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy |[Lenke](http://arxiv.org/abs/2402.07862) |
+| 7 | Computing Power and the Governance of Artificial Intelligence |[Lenke](http://arxiv.org/abs/2402.08797) |
