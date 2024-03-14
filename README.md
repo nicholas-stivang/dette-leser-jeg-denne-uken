@@ -13,3 +13,6 @@ Et sted for interessante artikler og forhåndstrykk.
 | 5 | Better Call GPT, Comparing Large Language Models Against Lawyers |[Lenke](http://arxiv.org/abs/2401.16212) |
 | 6 | AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy |[Lenke](http://arxiv.org/abs/2402.07862) |
 | 7 | Computing Power and the Governance of Artificial Intelligence |[Lenke](http://arxiv.org/abs/2402.08797) |
+| 8 | Using Counterfactual Tasks to Evaluate the Generality of Analogical Reasoning in Large Language Models |[Lenke](http://arxiv.org/abs/2402.08955) |
+| 9 | The Unreasonable Effectiveness of Eccentric Automatic Prompts |[Lenke](http://arxiv.org/abs/2402.10949) |
+| 10 | Approaching Human-Level Forecasting with Language Models |[Lenke](http://arxiv.org/abs/2402.18563) |
